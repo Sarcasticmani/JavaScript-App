@@ -1,18 +1,21 @@
 # JavaScript-App
-A JavaScript Repository to creat web app from basic to advance level. JavaScript is vety important language to improve your sites and the client-side and server-side that allows you to make web pages interactive.
+
+A JavaScript repository to create web apps from basic to advanced levels. JavaScript is a very important language for improving both client-side and server-side functionality, allowing you to make web pages interactive.
 
 ### Introduction
- This repostiory is mainly created to create web app using JavaScript. This app can level from beginner to expert level. You can use this repostiory for inspiration purposes.
- 
- ## Contribution
- 
- Read `Contribution.md` for more details.
- 
- Following languages have been used
+
+This repository is primarily created to develop web apps using JavaScript. The applications included range from beginner to expert levels. You can utilize this repository for inspiration and to enhance your JavaScript skills.
+
+## Contribution
+
+Please refer to `Contribution.md` for more details on how to contribute.
+
+The following languages have been used in this repository:
+
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
 - <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
 
-## Licence
-The code is `MIT Licence`.
- 
+## License
+
+The code is licensed under the MIT License.
